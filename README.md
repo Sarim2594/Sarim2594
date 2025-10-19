@@ -24,15 +24,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4C51BF?style=for-the-badge&logo=graph&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-0E76A8?style=for-the-badge&logo=smith&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-2C2E43?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq Console](https://img.shields.io/badge/Groq.Console-FF6F00?style=for-the-badge&logo=groq&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-34A853?style=for-the-badge&logo=google&logoColor=white)
 
@@ -53,4 +48,5 @@
   <a href="https://www.fiverr.com/m_sarim_khan_"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammad-sarim-khan-ghouri-801338277/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Sarim2594"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~019396928e598eaa2e?mp_source=share"><img src="https://img.shields.io/badge/Upwork-141115?style=for-the-badge&logo=upwork&logoColor=6fda44" /></a>
 </p>
